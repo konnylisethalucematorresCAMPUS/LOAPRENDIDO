@@ -1,4 +1,4 @@
-numero = int(input('Introduce un número positivo: \n'))
+numero = int(input('Introduce un # positivo: \n'))
 
 i=1
 total=0
